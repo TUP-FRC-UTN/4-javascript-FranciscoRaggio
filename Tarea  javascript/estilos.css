@@ -1,0 +1,23 @@
+.formulario{
+
+  
+    margin-top: 15px;
+}
+
+.azul{
+
+    background-color: lightblue;
+}
+
+
+.btn-primary{
+
+    transition: 1s;
+
+}
+
+.btn-primary:hover{
+
+    background-color: blueviolet;
+    
+}
